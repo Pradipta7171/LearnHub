@@ -21,4 +21,4 @@ To run **Academi Hub** locally, follow these steps:
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/codewithsadee/eduweb.git
+   git clone https://github.com/Pradipta7171/LearnHub.git
