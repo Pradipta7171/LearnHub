@@ -1,47 +1,24 @@
-<div align="center">
-  
+# Academi Hub - Education Website
 
-  <br />
-  <br />
+Academi Hub is a fully responsive education website, suitable for all devices. It is built using HTML, CSS, and JavaScript.
 
-  <h2 align="center">Academi Hub - Education Website</h2>
+## Demo Screenshots
 
-  Academi Hub is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+![Academi Hub Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-</div>
-
-<br />
-
-### Demo Screeshots
-
-![EduWeb Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-### Run Locally
+## Run Locally
 
-To run **EduWeb** locally, run this command on your git bash:
+To run **Academi Hub** locally, follow these steps:
 
-Linux and macOS:
+1. Open your terminal or command prompt.
 
-```bash
-sudo git clone https://github.com/codewithsadee/eduweb.git
-```
+2. Clone the repository:
 
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/eduweb.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+   ```bash
+   git clone https://github.com/codewithsadee/eduweb.git
